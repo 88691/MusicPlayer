@@ -1,0 +1,14 @@
+.select-container {
+    margin-bottom: 20px;
+  }
+  
+  .select-dropdown {
+    width: 900px; /* Adjust the width as needed */
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+  }
+  
+  /* Optional: Add more styles to customize the appearance of the dropdown menu */
+  
